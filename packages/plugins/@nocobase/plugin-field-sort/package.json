@@ -3,11 +3,11 @@
   "version": "1.9.11",
   "license": "AGPL-3.0",
   "displayName": "Collection field: Sort",
-  "displayName.ru-RU": "Поле коллекции: Сортировка",
   "displayName.zh-CN": "数据表字段：排序",
+  "displayName.ru-RU": "Поле коллекции: Сортировка",
   "description": "Used to sort the data in a collection.",
-  "description.ru-RU": "Используется для сортировки данных в коллекции.",
   "description.zh-CN": "用于对数据表的数据进行排序。",
+  "description.ru-RU": "Используется для сортировки данных в коллекции.",
   "main": "dist/server/index.js",
   "peerDependencies": {
     "@nocobase/actions": "1.x",
