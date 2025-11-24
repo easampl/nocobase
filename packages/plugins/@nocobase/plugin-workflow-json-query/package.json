@@ -3,11 +3,14 @@
   "version": "1.9.11",
   "displayName": "Workflow: JSON calculation",
   "displayName.zh-CN": "工作流：JSON 计算",
+  "displayName.ru-RU": "Рабочий процесс: JSON-вычисления",
   "description": "Used for transforming or calculating values from complex JSON data (result of HTTP request or SQL etc.).",
   "description.zh-CN": "用于转换或计算复杂 JSON 对象的值（例如 HTTP 请求节点和 SQL 节点的结果）。",
+  "description.ru-RU": "Используется для преобразования или вычисления значений из сложных данных JSON (результат HTTP-запроса, SQL-запроса и т. д.).",
   "main": "./dist/server/index.js",
   "homepage": "https://docs.nocobase.com/handbook/workflow-json-query",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/workflow-json-query",
+  "homepage.zh-CN": "https://docs-ru.nocobase.com/handbook/workflow-json-query",
   "keywords": [
     "Workflow"
   ],
