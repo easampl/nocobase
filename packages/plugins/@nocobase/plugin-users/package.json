@@ -1,17 +1,17 @@
 {
   "name": "@nocobase/plugin-users",
   "displayName": "Users",
-  "displayName.ru-RU": "Пользователи",
   "displayName.zh-CN": "用户",
+  "displayName.ru-RU": "Пользователи",
   "description": "Provides basic user model, as well as created by and updated by fields.",
-  "description.ru-RU": "Предоставляет базовую модель пользователя, а также поля кем, когда «создано» и «обновлено».",
   "description.zh-CN": "提供了基础的用户模型，以及创建人和最后更新人字段。",
+  "description.ru-RU": "Предоставляет базовую модель пользователя, а также поля кем, когда создано и обновлено.",
   "version": "1.9.11",
   "license": "AGPL-3.0",
   "main": "./dist/server/index.js",
   "homepage": "https://docs.nocobase.com/handbook/users",
-  "homepage.ru-RU": "https://docs-ru.nocobase.com/handbook/users",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/users",
+  "homepage.ru-RU": "https://docs-ru.nocobase.com/handbook/users",
   "devDependencies": {
     "@types/jsonwebtoken": "^9.0.9",
     "jsonwebtoken": "^9.0.2"
